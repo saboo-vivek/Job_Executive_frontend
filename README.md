@@ -4,7 +4,7 @@ Backend service for the **Job Executive** platform — a job portal connecting j
 
 ---
 
-## 🚀 [Live Features](https://your-live-site-url.com)
+## 🚀 [Live Features](https://job-executive-frontend.vercel.app/)
 
 ### 👤 Multi-Role System
 - **Job Seeker**
