@@ -1,0 +1,64 @@
+# ==========================
+# 🚀 Universal .gitignore
+# For Node.js + React (Vite/Create React App)
+# ==========================
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Environment variables
+.env
+**/.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+
+# Misc cache
+.cache/
+.next/
+.sass-cache/
+.parcel-cache/
+
+# Optional lock files (optional: uncomment if needed)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Generated files
+*.pid
+*.seed
+*.pid.lock
+
+# Backup files
+*.bak
+*.tmp
+
+# Local env overrides
+frontend/.env
+backend/.env
