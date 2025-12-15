@@ -5,7 +5,7 @@ Backend service for the **Job Executive** platform — a job portal connecting j
 ---
 
 ## 🚀 [Live Features](https://job-executive-frontend.vercel.app/)
-### [Backend file](https://github.com/saboo-vivek/Job_Executive_backend)
+
 ![ Job Executive AI-Powered Job Portal](photo-collage.png.png)
 ### 👤 Multi-Role System
 - **Job Seeker**
@@ -53,7 +53,7 @@ Backend service for the **Job Executive** platform — a job portal connecting j
 
 ## 🛠️ Tech Stack
 
-### Backend
+### [Backend](https://github.com/saboo-vivek/Job-Executive-Backend)
 - Node.js
 - Express.js
 - MongoDB Atlas
