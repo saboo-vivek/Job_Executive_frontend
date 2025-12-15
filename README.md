@@ -75,7 +75,7 @@ Backend service for the **Job Executive** platform — a job portal connecting j
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/job-executive.git
+git clone https://github.com/saboo-vivek/job-executive.git
 cd backend
 ```
 
@@ -99,12 +99,7 @@ Or connect to **MongoDB Atlas** using your connection string.
 npm start
 ```
 
-### 6️⃣ View API Docs
-Once the server is running, open Swagger UI in your browser:
 
-🔗 **http://localhost:4000/api-docs**
-
----
 
 ## 📘 Example `.env` File
 
