@@ -5,7 +5,7 @@ Backend service for the **Job Executive** platform — a job portal connecting j
 ---
 
 ## 🚀 [Live Features](https://job-executive-frontend.vercel.app/)
-
+![ Job Executive AI-Powered Job Portal](photo-collage.png.png)
 ### 👤 Multi-Role System
 - **Job Seeker**
   - Profile creation and editing
